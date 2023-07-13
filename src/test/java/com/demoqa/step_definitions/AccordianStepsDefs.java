@@ -25,6 +25,7 @@ public class AccordianStepsDefs {
     }
     @Then("verify text is opened")
     public void verify_text_is_opened() {
+        System.out.println("text is open");
 
 
     }
